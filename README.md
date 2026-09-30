@@ -9,7 +9,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
-- 🛠️ Focado no desenvolvimento web com **HTML, CSS, JavaScript e TypeScript**.
+- 🛠️ Focado no desenvolvimento web com **HTML, CSS, JavaScript, TypeScript e JSON**.
 - 💡 Apaixonado por transformar ideias em código e construir interfaces modernas e funcionais.
 - 💼 Aberto a oportunidades no mercado e colaborações em projetos *open-source*.
 
